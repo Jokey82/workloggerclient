@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30406.217
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorkLoggerClient", "WorkLoggerClient\WorkLoggerClient.csproj", "{A7B90D48-D5DC-409D-9C01-6C226CF303AB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A7B90D48-D5DC-409D-9C01-6C226CF303AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7B90D48-D5DC-409D-9C01-6C226CF303AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7B90D48-D5DC-409D-9C01-6C226CF303AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7B90D48-D5DC-409D-9C01-6C226CF303AB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6B6B59D5-9B43-4D49-93AA-5FCB4E11FC03}
+	EndGlobalSection
+EndGlobal

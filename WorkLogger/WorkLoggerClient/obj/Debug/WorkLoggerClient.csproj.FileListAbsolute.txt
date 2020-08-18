@@ -1,0 +1,17 @@
+D:\andrew\compsci\C#\WorkLogger\WorkLoggerClient\bin\Debug\WorkLoggerClient.exe.config
+D:\andrew\compsci\C#\WorkLogger\WorkLoggerClient\bin\Debug\WorkLoggerClient.exe
+D:\andrew\compsci\C#\WorkLogger\WorkLoggerClient\bin\Debug\WorkLoggerClient.pdb
+D:\andrew\compsci\C#\WorkLogger\WorkLoggerClient\obj\Debug\WorkLoggerClient.csprojAssemblyReference.cache
+D:\andrew\compsci\C#\WorkLogger\WorkLoggerClient\obj\Debug\MainWindow.g.cs
+D:\andrew\compsci\C#\WorkLogger\WorkLoggerClient\obj\Debug\App.g.cs
+D:\andrew\compsci\C#\WorkLogger\WorkLoggerClient\obj\Debug\WorkLoggerClient_MarkupCompile.cache
+D:\andrew\compsci\C#\WorkLogger\WorkLoggerClient\obj\Debug\WorkLoggerClient_MarkupCompile.lref
+D:\andrew\compsci\C#\WorkLogger\WorkLoggerClient\obj\Debug\MainWindow.baml
+D:\andrew\compsci\C#\WorkLogger\WorkLoggerClient\obj\Debug\WorkLoggerClient.g.resources
+D:\andrew\compsci\C#\WorkLogger\WorkLoggerClient\obj\Debug\WorkLoggerClient.Properties.Resources.resources
+D:\andrew\compsci\C#\WorkLogger\WorkLoggerClient\obj\Debug\WorkLoggerClient.csproj.GenerateResource.cache
+D:\andrew\compsci\C#\WorkLogger\WorkLoggerClient\obj\Debug\WorkLoggerClient.csproj.CoreCompileInputs.cache
+D:\andrew\compsci\C#\WorkLogger\WorkLoggerClient\obj\Debug\WorkLoggerClient.exe
+D:\andrew\compsci\C#\WorkLogger\WorkLoggerClient\obj\Debug\WorkLoggerClient.pdb
+D:\andrew\compsci\C#\WorkLogger\WorkLoggerClient\obj\Debug\Login.g.cs
+D:\andrew\compsci\C#\WorkLogger\WorkLoggerClient\obj\Debug\Login.baml
